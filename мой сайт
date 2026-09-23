@@ -1,0 +1,25 @@
+<html style="background-color:#ff0700">
+  <h1 style="color : white; font-size: 60px; text-align: center"> Сайт-Визитка </h1>
+  <h2 style="color : white; font-size: 50px; text-align: center"> май нэйм ис ярослав </h2>
+  <p  style="color : white; font-size: 50px; text-align: center"> обо мне:
+    <br>
+   <img src="assets/это я.jpg" width="500px">
+  </p>
+    <h2 style="color : white; font-size: 50px; text-align: center"> 1. я люблю гулять</h2>
+    <h2 style="color : white; font-size: 50px; text-align: center"> 2. у меня есть двоюродная сестра(на фото)
+    <h2 style="color : white; font-size: 50px; text-align: center"> 3. я босс
+    <h2 style="color : white; font-size: 50px; text-align: center"> 4. я 4 года занимаюсь борьбой
+      <br>
+   <img src="assets/1c2c99ba-9193-4b37-9cd4-01ad3e524fcb.jpg" width="500px">   
+  <h2 style="color : white; font-size: 50px; text-align: center"> мои интересы: </h2>
+  <br>
+  <img src="assets/15749a69-c6a5-4d3d-b728-437837c6d33c.jpg" width="500px">
+  <br>
+  <h2 style="color : white; font-size: 50px; text-align: center"> я катаюсь на пите </h2>
+  <img src="assets/ef860357-2680-4717-9334-057b7f4001db.jpg" width="500px">
+      <h2 style="color : white; font-size: 50px; text-align: center"> мой друг по борьбе </h2>
+   <img src="assets/767a4ed5-6ed0-4252-b0e3-86dd3843a5ff.jpg" width="800px"> 
+  <h2 style="color : white; font-size: 50px; text-align: center"> гуляю с другом на горе </h2>
+  <a href="https://evoltlist.ru/moto/?utm_source=yandex&utm_medium=cpc&utm_campaign=evoltlist_moto&utm_content=kupit&utm_term=купить%20мотоцикл&etext=2202.U1ei9qQtURG3WviWsv2B7pcrInRJyyTpxbOChNhKuRWdzNBazWIDPRktGHIipfNzaWZybWtvY3dheXRlZXdlcg.b2cf37127b1a7528e3ee098db49383efbe6cb077&yclid=5679871424698253311&ybaip=1"> мотоциклы ямаха </a>
+  
+  </html>
